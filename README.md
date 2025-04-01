@@ -1,5 +1,11 @@
 # OBSAH
-  - 
+  - [FUNKCE](#FUNKCE)
+    - [Pole](#Pole)
+    - [Len](#Len)
+    - [Append](#Append)
+    - [Pop/Remove](#Pop/Remove)
+    - [Sort](#Sort)
+    - [Reverse](#Reverse)
 # FUNKCE
 Zde jsou všechny použité funkce v souboru
 ## Pole
